@@ -11,19 +11,19 @@ Is it oversimplified? Probably. Does it work? I think so...
 
 dcf_project/
 
-├── main.py               # Main script to run the DCF analysis
+├── main.py                  *Main script to run the DCF analysis*
 
-├── dcf_calculator.py     # Module containing the DCF calculation logic
+├── dcf_calculator.py        *Module containing the DCF calculation logic*
 
-├── data_loader.py        # Module for loading and parsing Excel data
+├── data_loader.py           *Module for loading and parsing Excel data*
 
-├── requirements.txt      # Python dependencies
+├── requirements.txt         *Python dependencies*
 
-├── README.md             # Project overview and instructions
+├── README.md                *Project overview and instructions*
 
-├── sample_data.xlsx      # Sample Excel file with DCF inputs (see below)
+├── sample_data.xlsx         *Sample Excel file with DCF inputs (see below)*
 
-└── .gitignore            # Git ignore file
+└── .gitignore               *Git ignore file*
 
 ---
 
