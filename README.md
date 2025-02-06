@@ -58,15 +58,17 @@ This sheet must include the following columns:
    git clone <repository_url>
    cd dcf_project
 
-2.	**Install Dependencies:**
+2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
 
-3. 	**Prepare Your Excel File:**
-   •	Use the provided sample_data.xlsx or create your own following the format above.
+3. **Prepare Your Excel File:**
+   - Use the provided `sample_data.xlsx` or create your own following the format above.
 
-4.	**Run the DCF Analysis:**
+4. **Run the DCF Analysis:**
    ```bash
    python main.py sample_data.xlsx --output dcf_results.xlsx
-	 •	Replace sample_data.xlsx with your Excel file if necessary.
-	 •	The results will be printed in the console and saved to dcf_results.xlsx.
+   ```
+   - Replace `sample_data.xlsx` with your Excel file if necessary.
+   - The results will be printed in the console and saved to `dcf_results.xlsx`.
